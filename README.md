@@ -12,7 +12,7 @@
   adfajkgkefa<br>
   asduiasugioagd<br>
 <hr>
-[yahoo](http://tw.yahoo.com)
+[yahoo](http://tw.yahoo.com)<br>
 [google](http://www.google.com)
 
 ## [文字解說](blog/index.html)
