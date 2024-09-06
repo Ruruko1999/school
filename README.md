@@ -18,7 +18,7 @@
 ## [文字解說](blog/index.html)
 ![101圖](pic/101.jpg)</a>
 
-<ul type="disk>
+<ul type="disk">
 <li>台北捷運板南線</li>
 <li>台北捷運淡水線</li>
 <li>台北捷運木柵線</li>
