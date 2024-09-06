@@ -3,7 +3,7 @@
 ### 第一小節
 #### A
 ##### A_1
-####### A_1_1
+###### A_1_1
 <hr>
   <ul>
     <
@@ -15,7 +15,7 @@
 [yahoo](http://tw.yahoo.com)
 [google](http://www.google.com)
 
-##[文字解說](blog/index.html)
+## [文字解說](blog/index.html)
 ![101圖](pic/101.jpg)</a>
 
 <ul type="disk>
